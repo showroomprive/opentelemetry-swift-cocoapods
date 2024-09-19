@@ -5,7 +5,6 @@
 //  Created by Alexis BURGOS on 12/07/2024.
 //
 
-import Foundation
 import OpenTelemetryApi
 
 /// Enum representing the different severity levels for logs, usable in Objective-C code.

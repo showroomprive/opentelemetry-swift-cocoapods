@@ -5,7 +5,6 @@
 //  Created by Alexis BURGOS on 13/08/2024.
 //
 
-import Foundation
 import OpenTelemetrySdk
 
 /// `LogProcessorWrapper` is a class that wraps the `LogRecordProcessor` to expose it to Objective-C code.

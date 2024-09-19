@@ -5,7 +5,6 @@
 //  Created by Alexis BURGOS on 17/07/2024.
 //
 
-import Foundation
 import OpenTelemetryApi
 
 /// Provides a convenient way to access common OpenTelemetry semantic attributes in Objective-C code.

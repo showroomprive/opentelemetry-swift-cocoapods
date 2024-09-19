@@ -5,7 +5,6 @@
 //  Created by Alexis BURGOS on 10/07/2024.
 //
 
-import Foundation
 import OpenTelemetryApi
 
 /// A wrapper class providing access to an OpenTelemetry Tracer in Objective-C.

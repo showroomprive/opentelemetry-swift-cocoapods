@@ -5,7 +5,6 @@
 //  Created by Alexis BURGOS on 11/07/2024.
 //
 
-import Foundation
 import OpenTelemetryProtocolExporterHttp
 import StdoutExporter
 

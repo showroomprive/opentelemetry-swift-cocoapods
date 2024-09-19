@@ -5,7 +5,6 @@
 //  Created by Alexis BURGOS on 21/08/2024.
 //
 
-import Foundation
 import OpenTelemetryApi
 
 /// A wrapper class for `LongUpDownCounter` to expose it to Objective-C.
