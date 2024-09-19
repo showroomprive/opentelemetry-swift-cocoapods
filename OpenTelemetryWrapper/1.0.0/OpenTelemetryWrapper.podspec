@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
     s.name                      = 'OpenTelemetryWrapper'
     s.version                   = '1.0.0'
-    s.summary                   = 'OpenTelemetry Objective-C wrappers'
+    s.summary                   = 'OpenTelemetry Swift wrappers with Objective-C compatibility'
     s.description               = 'Swift wrappers to expose the OpenTelemetry Swift SDK to KMP with Objective-C annotations'
 
     s.homepage                  = 'https://github.com/showroomprive/opentelemetry-swift-cocoapods'
