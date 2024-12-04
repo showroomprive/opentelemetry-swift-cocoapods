@@ -17,6 +17,5 @@ Pod::Spec.new do |s|
 
     s.source_files = 'Sources/Exporters/OpenTelemetryProtocolCommon/**/*.{swift}'
     s.dependency 'OpenTelemetry-Swift-Sdk', "~> #{s.version.to_s}"
-    #s.dependency 'Logging', '~> 1.0'
     s.dependency 'SwiftProtobuf', '~> 1.0'
 end
