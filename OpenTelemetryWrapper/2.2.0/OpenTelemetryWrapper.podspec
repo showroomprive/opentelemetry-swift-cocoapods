@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
 	s.author                    = { 'alexis-burgos' => 'alexis.burgos@showroomprive.net' }
 
 	# This URL should still remain on a public repository, until another pod consumption system is used
-	s.source                    = { :git => 'https://github.com/showroomprive/opentelemetry-swift-wrapper.git', :branch => "TTF-4722_missing-implementation" }
+	s.source                    = { :git => 'https://github.com/showroomprive/opentelemetry-swift-wrapper.git', :tag => s.version.to_s }
     
     s.ios.deployment_target     = '14.0'
     s.swift_versions            = '5.9'
